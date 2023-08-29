@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blixy</h1>
+<img src="https://github.com/blixy77/blixy77/assets/116496257/e4ea4fb1-180f-4d93-81eb-9f0349029a09">
 <h3 align="center"><code>Minecraft java plugin developer from Poland</code></h3>
 
 - ⭐ I’m currently working on [MCTS](https://github.com/MCTS-Show)
