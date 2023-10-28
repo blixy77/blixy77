@@ -21,11 +21,14 @@
 <h2 align="center">Portfolio:</h2>
 
 ### MCTS
-- [`MCTS 1 - OFICJALNY TURNIEJ`](https://www.youtube.com/watch?v=JTW9FvkqQjc)
-- [`JAK WYGRALIŚMY MCTS 2...`](https://www.youtube.com/watch?v=td54IJHa_ko)
+- [`MCTS 1 - OFICJALNY TURNIEJ`](https://www.youtube.com/watch?v=td54IJHa_ko)
+- [`JAK WYGRALIŚMY MCTS 2...`](https://www.youtube.com/watch?v=JTW9FvkqQjc)
 
 ### xFelt
 - [`100 graczy Symuluje JASKINIOWĄ CYWILIZACJĘ w Minecraft`](https://www.youtube.com/watch?v=JTW9FvkqQjc) - **Plugin na podnoszenie lavy**
 - [`100 GRACZY SYMULUJE PREHISTORYCZNE IGRZYSKA ŚMIERCI`](https://www.youtube.com/watch?v=YbPdupofMas&t) - **Plugin na epoki**
+
+### Foldet
+- [`50 Graczy vs Śmiertelny BORDER w Minecraft!`](https://www.youtube.com/watch?v=xJqaqq9l74Y)
 
 ### I wiele innych, które nie pojawiły się na youtubie :p
