@@ -25,10 +25,10 @@
 - [`JAK WYGRALIŚMY MCTS 2...`](https://www.youtube.com/watch?v=JTW9FvkqQjc)
 
 ### xFelt
-- [`100 graczy Symuluje JASKINIOWĄ CYWILIZACJĘ w Minecraft`](https://www.youtube.com/watch?v=JTW9FvkqQjc) - **Plugin na podnoszenie lavy**
-- [`100 GRACZY SYMULUJE PREHISTORYCZNE IGRZYSKA ŚMIERCI`](https://www.youtube.com/watch?v=YbPdupofMas&t) - **Plugin na epoki**
+- [`100 graczy Symuluje JASKINIOWĄ CYWILIZACJĘ w Minecraft`](https://www.youtube.com/watch?v=JTW9FvkqQjc) - **Plugin for lavarise**
+- [`100 GRACZY SYMULUJE PREHISTORYCZNE IGRZYSKA ŚMIERCI`](https://www.youtube.com/watch?v=YbPdupofMas&t) - **Plugin for ages**
 
 ### Foldet
 - [`50 Graczy vs Śmiertelny BORDER w Minecraft!`](https://www.youtube.com/watch?v=xJqaqq9l74Y)
 
-### I wiele innych, które nie pojawiły się na youtubie :p
+### And many others that haven't appeared on YouTube :p
