@@ -12,7 +12,10 @@ A self-taught developer deeply passionate about coding innovative Java plugins f
   <img src="https://skillicons.dev/icons?i=idea,vscode,discord,java,gradle,git,github,mongodb,mysql,sqlite,windows" />
 </p>
 
-## 📺 Portfolio
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<!-- ## 📺 Portfolio
 
 <div align="left"> 
   <a href="https://www.youtube.com/watch?v=yZUP3IqHTKQ"> <img src="https://github.com/user-attachments/assets/3ac61123-8cc2-41ab-835d-a81df83f3e6f" width=250px height=220px></a>
@@ -24,6 +27,6 @@ A self-taught developer deeply passionate about coding innovative Java plugins f
   <a href="https://www.youtube.com/watch?v=JTW9FvkqQjc"> <img src="https://github.com/user-attachments/assets/b21ca5a9-5da7-4016-bc73-9ff3625efc32" width=250px height=220px></a>
   <a href="https://www.youtube.com/watch?v=R-ex5iO_lFo"> <img src="https://github.com/user-attachments/assets/3ebd7f4e-a9b8-4dab-8d5d-55d0988157c3" width=250px height=220px></a>
   <a href="https://www.youtube.com/watch?v=td54IJHa_ko"> <img src="https://github.com/user-attachments/assets/c7a70d9d-9f2d-4d5e-ac99-c22be8f98c93" width=250px height=220px></a>
-</div>
+</div> -->
 
 ### And much more that haven't appeared on YouTube :p
