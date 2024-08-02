@@ -13,6 +13,12 @@ A self-taught developer deeply passionate about coding innovative Java plugins f
 </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![MCTS 1 - OFICJALNY TURNIEJ](https://ytcards.demolab.com/?id=td54IJHa_ko&title=MCTS+1+-+OFICJALNY+TURNIEJ&lang=en&timestamp=1670102881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MCTS 1 - OFICJALNY TURNIEJ")](https://www.youtube.com/watch?v=td54IJHa_ko)
+[![100 graczy Symuluje JASKINIOWĄ CYWILIZACJĘ w Minecraft](https://ytcards.demolab.com/?id=R-ex5iO_lFo&title=100+graczy+Symuluje+JASKINIOW%C4%84+CYWILIZACJ%C4%98+w+Minecraft&lang=en&timestamp=1679742028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "100 graczy Symuluje JASKINIOWĄ CYWILIZACJĘ w Minecraft")](https://www.youtube.com/watch?v=R-ex5iO_lFo)
+[![JAK WYGRALIŚMY MCTS 2...](https://ytcards.demolab.com/?id=JTW9FvkqQjc&title=JAK+WYGRALI%C5%9AMY+MCTS+2...&lang=en&timestamp=1681591596&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "JAK WYGRALIŚMY MCTS 2...")](https://www.youtube.com/watch?v=JTW9FvkqQjc)
+[![100 GRACZY SYMULUJE PREHISTORYCZNE IGRZYSKA ŚMIERCI](https://ytcards.demolab.com/?id=YbPdupofMas&title=100+GRACZY+SYMULUJE+PREHISTORYCZNE+IGRZYSKA+%C5%9AMIERCI&lang=en&timestamp=1691839814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "100 GRACZY SYMULUJE PREHISTORYCZNE IGRZYSKA ŚMIERCI")](https://www.youtube.com/watch?v=YbPdupofMas)
+[![Śmiertelny BORDER vs 50 Graczy w Minecraft!](https://ytcards.demolab.com/?id=xJqaqq9l74Y&title=%C5%9Amiertelny+BORDER+vs+50+Graczy+w+Minecraft%21&lang=en&timestamp=1698501648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Śmiertelny BORDER vs 50 Graczy w Minecraft!")](https://www.youtube.com/watch?v=xJqaqq9l74Y)
+[![100 GRACZY SYMULUJE IGRZYSKA ŚMIERCI ROBAKÓW](https://ytcards.demolab.com/?id=RozktN8FdbY&title=100+GRACZY+SYMULUJE+IGRZYSKA+%C5%9AMIERCI+ROBAK%C3%93W&lang=en&timestamp=1708084823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "100 GRACZY SYMULUJE IGRZYSKA ŚMIERCI ROBAKÓW")](https://www.youtube.com/watch?v=RozktN8FdbY)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- ## 📺 Portfolio
